@@ -11,8 +11,8 @@
             //var a0 = 0;
             //var a1 = 1; 
             //var a2 = 2;
-            var a3 = 3;
-            var a4 = 4;
+            //var a3 = 3;
+            //var a4 = 4;
             // Comment
             var a5 = 5;
             var a6 = 6;
