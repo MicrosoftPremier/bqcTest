@@ -22,8 +22,6 @@ variables:
   system.debug: 'true'
 
 steps:
-- task: DumpVariables@1
-
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
