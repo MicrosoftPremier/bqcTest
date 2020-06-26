@@ -1008,8 +1008,8 @@
             var a996 = 996;
             var a997 = 997;
             var a998 = 998;
-            var a999 = 999;
-            var a1000 = 1000;
+            //var a999 = 999;
+            //var a1000 = 1000;
         }
 
         public int subtract(int a, int b)
