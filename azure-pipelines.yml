@@ -49,3 +49,4 @@ steps:
     warningFailOption: build
     checkCoverage: true
     coverageFailOption: build
+    baseBranchRef: '$(System.PullRequest.TargetBranch)'
